@@ -12,7 +12,7 @@
 
 
 UCLASS(ClassGroup = (Custom), meta = (BlueprintSpawnableComponent))
-class BUILDINGESCAPE_API UGrabber : public UActorComponent
+class BUILDINGESCAPEV2_API UGrabber : public UActorComponent
 {
 	GENERATED_BODY()
 
